@@ -35,3 +35,6 @@ Step 7: Solder a wire from the other terminal of the push switch and connect it 
 
 Step 8: Use a 15 cm wooden or PVC sheet as the base to mount all the components in an organized manner. Accurately locate the center of the sheet and securely attach an angle grinder connector at this point. Ensure the components are evenly distributed around the center to maintain proper balance during rotation and minimize vibration.
 
+Contributing:
+
+We welcome contributions to this project! If you have suggestions, improvements, or bug fixes, please submit a pull request. You're also encouraged to open issues for discussions or to propose new features.
